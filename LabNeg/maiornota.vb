@@ -2,7 +2,7 @@ Function MaiorNota() As Double
 
 Dim Maior As Double
 Maior = 0
- 
+  
 Dim Notas(10) As Double
 Notas(1) = 7
 Notas(2) = 5
