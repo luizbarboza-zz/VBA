@@ -9,6 +9,7 @@ For i = 1 To npar Step 1
     acc = acc + pagto / ((1 + taxa) ^ i)
 Next
 
+ 
 VPres = acc
  
 End Function 
